@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WarThunderHandBook</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">War Thunder Handbook</string>
+    <string name="nav_header_subtitle">Handbook of all types tanks and vehicles</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_tank">Tanks</string>
+    <string name="menu_spg">Self-propelled guns</string>
+    <string name="menu_aag">Anti-aircraft guns</string>
+</resources>
